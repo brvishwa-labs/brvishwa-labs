@@ -2,7 +2,7 @@
 
 Student @ Sri Venkateshwaraa College Of Engineering and Technology
 
-- 🔭 Here's my [portfolio](https://drive.google.com/file/d/1DhMN4MruEdZewMJhZZyrsQLSKUNaDK7j/view?usp=sharing)                                                 
+- 🔭 Here's my [portfolio](https://drive.google.com/file/d/1IUAfOiQsf6MLsIzdM1ed_gBb1RlbYSvN/view?usp=sharing)                                                 
 - 🌱 I’m currently learning  DSA and Integrating AI to my workflow
 
 - Social Presence
